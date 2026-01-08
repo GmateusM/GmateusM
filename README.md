@@ -30,10 +30,7 @@
 
   <!-- Stats temporarily removed due to service outage -->
 
-  <img src="https://raw.githubusercontent.com/GmateusM/GmateusM/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
-  <br/>
-  <br/>
 
   <p align="center">
     📫 <b>Contatos:</b>
