@@ -32,16 +32,10 @@
 
   ### 📊 Estatísticas do GitHub
 
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=GmateusM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GmateusM&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=GmateusM&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GmateusM&theme=tokyonight&hide_border=true" />
+  </p>
 
   <br/>
 
