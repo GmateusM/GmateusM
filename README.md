@@ -9,7 +9,7 @@
   <p align="center">
     Atualmente atuo como <b>Analista de Sistemas</b> na Secretaria Municipal de Saúde de Volta Redonda (RJ). 
     <br/>
-    Focado em suporte, manutenção de dados e otimização de processos digitais[cite: 21].
+    Focado em suporte, manutenção de dados e otimização de processos digitais.
     <br/>
     🎓 Graduando em <b>Engenharia de Software</b> pela UNOPAR (2029).
   </p>
@@ -50,25 +50,21 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  [cite_start]<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-  [cite_start]<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-  [cite_start]<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> [cite: 13]
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
   <br/>
-  <br/>
-
-  <img src="https://raw.githubusercontent.com/GmateusM/GmateusM/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-
   <br/>
 
   <p align="center">
     📫 <b>Vamos nos conectar?</b>
     <br/>
     <a href="mailto:gmateusm2020@gmail.com">
-      [cite_start]<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> [cite: 3]
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://wa.me/5524988565174">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> [cite: 3]
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
   </p>
 
