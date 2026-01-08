@@ -16,23 +16,6 @@
 
   <br/>
 
-  ### 📊 Atividade e Estatísticas
-
-  <table align="center" style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GmateusM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-      </td>
-      <td align="center" style="border: none;">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GmateusM&layout=compact&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-  
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GmateusM&theme=tokyonight&hide_border=true" />
-
-  <br/>
-
   ### 🛠️ Minha Stack Técnica
 
   **Front-end**
